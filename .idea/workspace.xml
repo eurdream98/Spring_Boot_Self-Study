@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a60058f4-ca65-4315-86da-3647c32b28e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/common/BoardDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice01/xmlconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice02/javaconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice02/javaconfig/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice03/annotationconfig/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice03/annotationconfig/BoardDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ohgiraffers/practice03/annotationconfig/ContextConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/ohgiraffers/practice01/xmlconfig/spring-context.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a60058f4-ca65-4315-86da-3647c32b28e5" name="Changes" comment="chap01_ioc_container &#10;10/4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +53,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/eurdr/OneDrive/바탕 화면/Spring/chap02-ioc-container",
+    "last_opened_file_path": "C:/Users/eurdr/OneDrive/바탕 화면/Spring/실습문제/chap02_dependency_injection",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -149,10 +129,23 @@
       <updated>1696410219792</updated>
       <workItem from="1696410220857" duration="1118000" />
       <workItem from="1696428060378" duration="1364000" />
+      <workItem from="1696431067766" duration="147000" />
     </task>
+    <task id="LOCAL-00001" summary="chap01_ioc_container &#10;10/4">
+      <created>1696431096753</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696431096753</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chap01_ioc_container &#10;10/4" />
+    <option name="LAST_COMMIT_MESSAGE" value="chap01_ioc_container &#10;10/4" />
   </component>
 </project>
